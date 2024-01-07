@@ -7,6 +7,7 @@ const Home: FC = () => {
       <div>
         <span className="text-blue-500">Hello</span>
         <span className="text-red-500">Universe</span>
+        <span className="text-green-500">Woohoo!</span>
       </div>
     </div>
   );

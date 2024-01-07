@@ -18,6 +18,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^18.4.4",
+    "@commitlint/config-conventional": "^18.4.4",
     "@ianvs/prettier-plugin-sort-imports": "^4.1.1",
     "@next/eslint-plugin-next": "^14.0.4",
     "@types/eslint": "^8.56.1",
