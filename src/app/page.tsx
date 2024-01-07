@@ -6,7 +6,7 @@ const Home: FC = () => {
       <div className="text-lg font-bold">Home</div>
       <div>
         <span className="text-blue-500">Hello</span>
-        <span className="text-red-500">World</span>
+        <span className="text-red-500">Universe</span>
       </div>
     </div>
   );
